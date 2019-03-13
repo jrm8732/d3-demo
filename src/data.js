@@ -1,0 +1,1 @@
+export default [{title:'Monday', value:0},{title:'Tuesday',value:3},{title:'Wednesday',value:7}, {title:'Thursday', value:2}, {title:"Friday", value:3}, {title:"Saturday", value:4}, {title:"Sunday",value:1}];
